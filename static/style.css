@@ -1,0 +1,11 @@
+body {
+	background: url("bg.jpg");
+}
+
+iframe {
+	display: block;
+    width: 800px;
+    height: 800px;
+    margin: 0 auto;
+    border: 0;
+}
